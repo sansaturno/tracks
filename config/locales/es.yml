@@ -331,12 +331,12 @@ es:
       calendar: Calendario
       calendar_title: Calendario de las acciones por
       completed_tasks: Hecho
-      completed_tasks_title: Completed
-      contexts_title: Contexts
-      export: Export
-      export_title: Import and export data
+      completed_tasks_title: Completado
+      contexts_title: Contecto
+      export: Exportar
+      export_title: Importar y exportar datos
       feeds: Feeds
-      feeds_title: See a list of available feeds
+      feeds_title: Ver una lusta de feeds disponibles
       help: '?'
       home: Inicio
       home_title: Inicio
@@ -349,50 +349,50 @@ es:
       preferences_title: Mostrar mis preferencias
       projects_title: Proyectos
       recurring_todos: Tareas repetitivas
-      recurring_todos_title: Manage recurring actions
+      recurring_todos_title: Gestionar acciones recurrentes
       review_title: Posibilidad de una revisión
-      search: Search All Items
+      search: Buscar todos los elementos
       starred: Estrellas
       starred_title: See your starred actions
       stats: Estadísticas
-      stats_title: See your statistics
-      tickler: Tickler
-      tickler_title: Tickler
+      stats_title: Ver tus estadisticas
+      tickler: Recordatorio
+      tickler_title: Recordatorio
       view: Ver
-    next_actions_rss_feed: RSS feed of next actions
-    toggle_contexts: Cambiar los contextos se derrumbó
-    toggle_contexts_title: Haga contextos se derrumbó (in)visible
+    next_actions_rss_feed: RSS feed de las acciones siguientes
+    toggle_contexts: Colapsar contextos colapsados
+    toggle_contexts_title: Hacer (in)invisibles los contextos colapsados
     toggle_notes: Activar/Desactivar notas
     toggle_notes_title: Activar/Desactivar todas las notas
   login:
     account_login: Acceso a la cuenta
-    cas_create_account: If you like to request on please go here to %{signup_link}
-    cas_logged_in_greeting: Hello, %{username}! You are authenticated.
+    cas_create_account: Si desea solicitarlo por favor vaya a %{signup_link}
+    cas_logged_in_greeting: Hola, %{username}! Estas autenticado.
     cas_login: CAS Login
-    cas_no_user_found: Hello, %{username}! You do not have an account on Tracks.
-    cas_signup_link: Request account
+    cas_no_user_found: Hola, %{username}! Usted no tiene una cuenta en Tracks.
+    cas_signup_link: Solicitar cuenta
     cas_username_not_found: Sorry, no user by that CAS username exists (%{username})
-    log_in_again: log in again.
-    logged_out: You have been logged out of Tracks.
+    log_in_again: entrar de nuevo.
+    logged_out: Has sido desconectado de Tracks.
     login_cas: go to the CAS
-    login_standard: go back to the standard login
-    login_with_openid: login with an OpenID
-    mobile_use_openid: …or login with an OpenID
-    openid_identity_url_not_found: Sorry, no user by that identity URL exists (%{identity_url})
-    option_separator: or,
-    please_login: Please log in to use Tracks
-    session_time_out: Session has timed out. Please %{link}
-    session_will_expire: session will expire after %{hours} hour(s) of inactivity.
-    session_will_not_expire: session will not expire.
+    login_standard: volver a el login estandar
+    login_with_openid: login con OpenID
+    mobile_use_openid: …o login con OpenID
+    openid_identity_url_not_found: Disculpe, no hay un usuario con esa identidad URL (%{identity_url})
+    option_separator: o,
+    please_login: Por favor inicie sesión para usar Tracks
+    session_time_out: La sesión ha expirado. Por favor %{link}
+    session_will_expire: la sesión expirará después de %{hours} hora(s) de inactividad.
+    session_will_not_expire: la sesión no expirará.
     sign_in: Entrar
     successful: Has entrado con éxito. Bienvenido!
     successful_with_session_info: 'Login successful:'
-    unsuccessful: Login unsuccessful.
-    user_no_expiry: Stay logged in
+    unsuccessful: Login no exitoso.
+    user_no_expiry: Quedar conectado
   models:
     preference:
-      due_in: Due in %{days} days
-      due_on: Due on %{date}
+      due_in: Vence en %{days} días
+      due_on: Vende el %{date}
       due_styles:
       - Due in ___ days
       - Due on _______
