@@ -323,7 +323,7 @@ es:
       logout: Cerrar sesión
       new_action: Nueva tarea
       projects: Proyectos
-      starred: avoritos
+      starred: Favoritos
       tickler: Tickler
     navigation:
       admin: Admin
